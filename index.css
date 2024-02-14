@@ -1,0 +1,34 @@
+body{
+    background-color: beige;
+}
+div{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+    
+    
+
+}
+h1{
+    display: block;
+    
+    color:black;
+    text-align: center;
+    font-size: 70px;
+
+
+}
+ol{
+    margin: auto;
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left:50px;
+    padding-right:50px;
+    width: fit-content;
+    background-color: aliceblue;
+    font-size: 40px;
+}
